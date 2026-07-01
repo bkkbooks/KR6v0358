@@ -1,0 +1,538 @@
+canonical_identifier: bkk:krp/KR6v0358/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0358/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 明行道六成就法
+  identifiers:
+    krp: KR6v0358
+    cbeta: B10n0059
+    cbeta_old_id: B10n0059
+    authorityid: CA0006143
+    json_key: B0059
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0059.xml
+    old_id: B10n0059
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0358_000-B.yaml, hash: 'sha256:834d4993d8a118158ea16c51aa335113719ce2a9bfabab45cc5608fd01c6297a'}
+  - {seq: 1, filename: KR6v0358_001-B.yaml, hash: 'sha256:ff2347a434f43d27348c6557c98ece2783b6723e3a52757f252f94e3a082df34'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0358_000-B.markers.yaml, hash: 'sha256:756ec8177716b1c65b75b7d66eeb41a6ec9a54a0132a60175099dee0bcbd0a36'}
+  - {seq: 1, role: markers, filename: assets/KR6v0358_001-B.markers.yaml, hash: 'sha256:bbc516501511a1b150f9e4106a314933aaa230e84976903a48fff94f929af415'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0358_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 19211
+  label: 明行道六成就法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-1
+    span:
+    - body
+    - 74
+    - 74
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-2
+    span:
+    - body
+    - 74
+    - 74
+  label: 皈敬
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-3
+    span:
+    - body
+    - 88
+    - 88
+  label: 引端
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-4
+    span:
+    - body
+    - 306
+    - 306
+  label: 第一章　靈熱成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-5
+    span:
+    - body
+    - 338
+    - 338
+  label: 第一節　前行修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-6
+    span:
+    - body
+    - 383
+    - 383
+  label: 第一段　觀外粗身空
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-7
+    span:
+    - body
+    - 909
+    - 909
+  label: 第二段　觀內細身空
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-8
+    span:
+    - body
+    - 1153
+    - 1153
+  label: 第三段　觀身擁護輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-9
+    span:
+    - body
+    - 1574
+    - 1574
+  label: 第四段　靈息之訓練
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-10
+    span:
+    - body
+    - 1800
+    - 1800
+  label: 第五段　靈力之加持
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-11
+    span:
+    - body
+    - 2302
+    - 2302
+  label: 第二節　根本修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-12
+    span:
+    - body
+    - 2334
+    - 2334
+  label: 第一段　靈熱之發生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-13
+    span:
+    - body
+    - 4771
+    - 4771
+  label: 第二段　靈熱之經驗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-14
+    span:
+    - body
+    - 6659
+    - 6659
+  label: 第三節　實驗修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-15
+    span:
+    - body
+    - 6689
+    - 6689
+  label: 第一段　獲證熱益之修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-16
+    span:
+    - body
+    - 7245
+    - 7245
+  label: 第二段　獲證樂益之修習
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-17
+    span:
+    - body
+    - 9183
+    - 9183
+  label: 第二章　幻觀成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-18
+    span:
+    - body
+    - 9240
+    - 9240
+  label: 第一節　認證不清淨之幻色身為嘛雅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-19
+    span:
+    - body
+    - 9660
+    - 9660
+  label: 第二節　認證清淨幻色身亦為嘛雅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-20
+    span:
+    - body
+    - 10317
+    - 10317
+  label: 第三節　認證一切法皆為嘛雅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-21
+    span:
+    - body
+    - 10501
+    - 10501
+  label: 第三章　夢觀成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-22
+    span:
+    - body
+    - 10538
+    - 10538
+  label: 第一節　明悉夢境法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-23
+    span:
+    - body
+    - 11501
+    - 11501
+  label: 第二節　轉變夢境法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-24
+    span:
+    - body
+    - 11718
+    - 11718
+  label: 第三節　認識夢境為嘛雅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-25
+    span:
+    - body
+    - 12161
+    - 12161
+  label: 第四節　習觀夢境之實相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-26
+    span:
+    - body
+    - 12339
+    - 12339
+  label: 第四章　淨光成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-27
+    span:
+    - body
+    - 12375
+    - 12375
+  label: 第一節　根本淨光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-28
+    span:
+    - body
+    - 12459
+    - 12459
+  label: 第二節　道淨光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-29
+    span:
+    - body
+    - 14165
+    - 14165
+  label: 第三節　果淨光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-30
+    span:
+    - body
+    - 14425
+    - 14425
+  label: 第五章　中陰成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-31
+    span:
+    - body
+    - 14465
+    - 14465
+  label: 第一節　證入淨光境之清淨法性身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-32
+    span:
+    - body
+    - 14479
+    - 14479
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-33
+    span:
+    - body
+    - 14682
+    - 14682
+  label: 方死時境之要妙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-34
+    span:
+    - body
+    - 15625
+    - 15625
+  label: 臨終瑜伽之要妙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-35
+    span:
+    - body
+    - 16175
+    - 16175
+  label: 第二節　證入淨報身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-36
+    span:
+    - body
+    - 16183
+    - 16183
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-37
+    span:
+    - body
+    - 16230
+    - 16230
+  label: 未能認證淨光之業力果
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-38
+    span:
+    - body
+    - 16459
+    - 16459
+  label: 中陰身之概況
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-39
+    span:
+    - body
+    - 16853
+    - 16853
+  label: 中陰界內之證悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-40
+    span:
+    - body
+    - 17060
+    - 17060
+  label: 第三節　證入勝化身法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-41
+    span:
+    - body
+    - 17069
+    - 17069
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-42
+    span:
+    - body
+    - 17084
+    - 17084
+  label: 趣求復生之中陰境
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-43
+    span:
+    - body
+    - 17797
+    - 17797
+  label: 揀擇生門之瑜伽法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-44
+    span:
+    - body
+    - 18202
+    - 18202
+  label: 第六章　轉識成就法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-45
+    span:
+    - body
+    - 18256
+    - 18256
+  label: 第一節　三等成就身
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-46
+    span:
+    - body
+    - 18413
+    - 18413
+  label: 第二節　上師本尊瑜伽轉識法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-47
+    span:
+    - body
+    - 18425
+    - 18425
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-48
+    span:
+    - body
+    - 18552
+    - 18552
+  label: （一）恒修恆常所修
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0358_B_001-mulu-49
+    span:
+    - body
+    - 18938
+    - 18938
+  label: （二）臨用臨終所用
+  type: mulu
+  level: 1
+hash: sha256:1676241147643fbd6d5a473963d5e8a29856b2ce15ca939dc34a3f3eaaf7dfc3
